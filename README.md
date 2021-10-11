@@ -8,7 +8,7 @@ The main features of the datalogger are given by my own  professional experience
 * One CY8CKIT-062-WiFi-BT board.
 * PC with WLAN IEEE 802.11 link capability.
 * [WICED Studio](https://www.cypress.com/products/wiced-software) SDK.
-* Python 2.7.
+* Python 2.7 + pillow.
 ## Instalation
 1. Download and install WICED Studio in the computer.
 2. In WICED Studio load the datalogger's project.
