@@ -3,7 +3,7 @@ This project contains the code developed for making the [CY8CKIT-062-WiFi-BT](ht
 ## Motivation
 The main motivation for the existence of this project was to carry out my final Master Thesis in Telecomunication Engineering.
 The idea behind the project is to develop one easy to use, low power and generic datalogger with capability to acquire, log and send high quality oceanographic and meteorological data. 
-The main features of the datalogger are given by my own  professional experience in the field of the ambiental sensors and acquisition systems.
+The main features of the datalogger are given by my own  professional experience in the field of ambiental sensors and acquisition systems.
 ## Requirements
 * One CY8CKIT-062-WiFi-BT board.
 * PC with WLAN IEEE 802.11 link capability.
