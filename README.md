@@ -2,7 +2,7 @@
 This project contains the code developed for making the [CY8CKIT-062-WiFi-BT](https://www.cypress.com/documentation/development-kitsboards/psoc-6-wifi-bt-pioneer-kit-cy8ckit-062-wifi-bt) board to work as a generic datalogger for high quality oceanographic and meteorological data acquisition.
 ## Motivation
 The main motivation for the existence of this project was to carry out my final Master Thesis in Telecomunication Engineering.
-The idea behind the project is to develop one easy to use, low power and generic datalogger with capability to acquire, log and send high quality oceanographic and meteorological data. 
+The idea behind the project is to develop one generic, easy to use and low power datalogger with capability to acquire, log and send high quality oceanographic and meteorological data. 
 The main features of the datalogger are given by my own  professional experience in the field of ambiental sensors and acquisition systems.
 ## Requirements
 * One CY8CKIT-062-WiFi-BT board.
