@@ -25,3 +25,5 @@ The main features of the datalogger are given by my own  professional experience
 Full documentation of this project can be found [here](http://hdl.handle.net/10609/107488). *(Only spanish version available)*
 ## License
 This project can be distributed under the Creative Commons (by-nc-nd)
+
+![Licencia](C:/Licencia.PNG)
